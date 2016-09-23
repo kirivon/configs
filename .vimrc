@@ -64,7 +64,7 @@ call vundle#begin()
     Plugin 'Shougo/neocomplete'         " Cached keyword completion system
     Plugin 'Shougo/neosnippet'          " Add snippet support
     Plugin 'Shougo/neosnippet-snippets' " Default snippets files
-    Plugin 'faith/vim-go'               " Go support for Vim 
+    Plugin 'fatih/vim-go'               " Go support for Vim 
     Plugin 'majutsushi/tagbar'          " Browse tags of a current file
     " Plugin 'godlygeek/csapprox'       " Support Gvim colorschemes in terminal
 call vundle#end()
