@@ -12,7 +12,6 @@ set showcmd         " Show last command in bottom bar
 " }}}
 
 " Colors {{{
-" ===Color Related Settings===
 syntax on           " Enable Syntax Highlighting
 set background=dark
 colorscheme solarized
